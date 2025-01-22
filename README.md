@@ -33,16 +33,9 @@ Python 3.7 oder höher
 Installierte Abhängigkeiten (ccxt und tabulate)
 
 pip install ccxt tabulate
-Starten des Tools
-Klone das Repository:
 
 
-git clone https://github.com/dein-github-user/crypto-price-tracker.git
-cd crypto-price-tracker
-Führe das Tool aus:
-
-
-python crypto_price_tracker.py
+python crypticker.py
 Gib die gewünschten Kryptowährungen ein, getrennt durch Kommas (z. B. BTC,ETH,LTC).
 
 
